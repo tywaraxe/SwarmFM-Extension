@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "SwarmFM",
+  "version": "1.2",
+  "description": "A extension that goes to SwarmFM.",
+  "action": {
+    "default_title": "Go to YouTube Video",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["tabs"]
+}
