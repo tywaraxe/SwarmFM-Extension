@@ -1,3 +1,3 @@
 chrome.action.onClicked.addListener(() => {
-  chrome.tabs.create({ url: "https://www.youtube.com/@boop/live" });
+  chrome.tabs.create({ url: "https://femboysocks.com" });
 });
