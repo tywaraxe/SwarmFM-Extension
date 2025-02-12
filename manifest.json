@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "SwarmFM",
+  "name": "femboysocksFM",
   "version": "1.2",
-  "description": "A extension that goes to SwarmFM.",
+  "description": "Go get some femboy socks.",
   "action": {
-    "default_title": "Go to SwarmFM",
+    "default_title": "PROGRAMMING SOCKS",
     "default_icon": {
       "16": "icon16.png",
       "48": "icon48.png",
